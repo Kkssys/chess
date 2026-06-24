@@ -80,3 +80,13 @@ You need both the backend and frontend running simultaneously.
 7. If the timer runs out, the player with the higher points wins!
 8. Use **Resign**, **New Game**, or **Leave** as needed.
 
+## 📱 Mobile Support
+
+The game is fully responsive:
+- Board scales to fit any screen
+- Touch-friendly controls
+- Portrait and landscape support
+- Layout adapts to small screens
+
+
+
