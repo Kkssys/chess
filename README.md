@@ -2,7 +2,6 @@
 <br>
 This chess game is now fully responsive and ready to be played on phones, tablets, and desktops. <br>
 
-# ♟️ Multiplayer Chess Game
 
 A real-time multiplayer chess game built with **React**, **Node.js**, **Socket.io**, and **chess.js**. Challenge your friends online, track captured pieces, and let the timer decide the winner by points!
 
@@ -10,8 +9,6 @@ A real-time multiplayer chess game built with **React**, **Node.js**, **Socket.i
   <img src="https://github.com/user-attachments/assets/508efebb-c869-446e-b1ad-c94385129e42" width="400" alt="Screenshot (73)" />
   <img src="https://github.com/user-attachments/assets/9372e4c0-48db-41c3-99e3-25b547bcfb3d" width="300" alt="Screenshot (72)" />
 </div>
-
-
 
 
 
@@ -95,5 +92,20 @@ The game is fully responsive:
 - Portrait and landscape support
 - Layout adapts to small screens
 
+🔧 Configuration
 
+Backend port: 5000 (change in server.js)
+Frontend port: 5173 (change in vite.config.js)
+Timer duration: 600 seconds (10 minutes) – adjust in server.js timers object
+
+
+🙏 Acknowledgements
+
+chess.js – chess logic
+Socket.io – real-time communication
+React – UI library
+Vite – build tool
+
+
+Happy Chess! ♟️
 
