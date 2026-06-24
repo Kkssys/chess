@@ -6,7 +6,8 @@ This chess game is now fully responsive and ready to be played on phones, tablet
 
 A real-time multiplayer chess game built with **React**, **Node.js**, **Socket.io**, and **chess.js**. Challenge your friends online, track captured pieces, and let the timer decide the winner by points!
 
-![Game Screenshot](screenshot.png) *(Add a screenshot later)*
+<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/fd98a80c-2093-424b-9126-bc3007431eb7" />
+
 
 ## 🚀 Features
 
